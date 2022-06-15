@@ -1,0 +1,18 @@
+[
+    {
+        "First Name": "asda",
+        "Last Name": "asda",
+        "Age": "23",
+        "Designation": null,
+        "Email": "eramasif16@gmail.com",
+        "Checkbox": " please select at least one checkbox "
+    },
+    {
+        "First Name": "hfghf",
+        "Last Name": "gh",
+        "Age": "3",
+        "Designation": "Juniorprogrammer",
+        "Email": "eramasif16@gmail.com",
+        "Checkbox": "Java"
+    }
+]
